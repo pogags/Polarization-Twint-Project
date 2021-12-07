@@ -1,0 +1,9 @@
+wordcloud
+matplotlib
+seaborn
+numpy
+pandas
+nltk
+pprint
+twint
+nest_asyncio
