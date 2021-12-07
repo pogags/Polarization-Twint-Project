@@ -36,7 +36,7 @@ We examined tweets from November across five years (2016-2020) and five topics t
 For this project, we examined two metrics and utilized a third visual representation strategy to try and pull together a picture of how the language over these topics have changed.  
 • Sentiment Analysis using [NLTK](https://www.nltk.org/)  
 • [Extreme Word](extremewords.txt) Count   
-• Word Cloud (visual representation)  
+• Word Cloud (visual representation for subjective analysis)  
 
 ## Twint
 
