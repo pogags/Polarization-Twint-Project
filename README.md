@@ -9,7 +9,7 @@ As Americans, it can seem that we are more divided than we have ever been when i
 Have we become more polarized?
 ### Strategy
 
-The best way to understand what people think about topics in tweets is to utilize language. To address our research question, we will be creating data by pulling tweets, and using data science methods to analyze the text data.
+The best way to understand what people think about topics in tweets is to utilize language. To address our research question, we will be creating data by pulling tweets, and using natural language processing to analyze the text data.
 
 ### Content
 
