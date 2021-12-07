@@ -9,13 +9,13 @@ As Americans, it can seem that we are more divided than we have ever been when i
 Have we become more polarized?
 ### Strategy
 
-The best way to understand what people think about topics in tweets is to utilize language. To adress our research question, we will be creating data by pulling tweets, and using data science methods to analze the text data.
+The best way to understand what people think about topics in tweets is to utilize language. To address our research question, we will be creating data by pulling tweets, and using data science methods to analyze the text data.
 
 ### Content
 
 Reference the [Project Writeup](Polarization%20%26%20a%20Divided%20America.pdf) for a detailed summary of findings and more info on this project. 
 
-To see how the graphic were generated and how data was processed, see [Generate Graphs](GenerateGraphs.ipynb).
+To see how the visualizations were generated and how data was processed, see [Generate Graphs](GenerateGraphs.ipynb).
 
 To see how the Tweets were pulled, see [Pull Tweets](PullTweets.ipynb).
 
@@ -51,6 +51,6 @@ If this does not work, simply use the files listed in the [TweetCSV-archive](Twe
 
 Based on the data we collected, and specifically focusing on the extreme word counts, it is hard to deny that there is quality evidence for continuing polarization among the American public, at least when it comes to the politics around the topics of Abortion, Education, Gun Control, Healthcare, and Immigration. Extreme word use **doubled** for nearly every topic, and increased in all topics.
 
-We do not have as strong evidence for continued division when examining sentiment analysis, but we do see some. Negative sentiment on Education is indicating more division and passion in that area (educations extreme words also doubled) and we saw much less neutrality and more opinionated opinions surrounding the area of healthcare (extreme words more than doubled here).
+We do not have as strong evidence for continued division when examining sentiment analysis, but we do see some. Negative sentiment on Education is indicating more division and passion in that area (education's extreme words also doubled) and we saw much less neutrality and more opinionated opinions surrounding the area of healthcare (extreme words more than doubled here).
 
-Combining these observations, we can confidently conclude that Healthcare and Education show strong evidence that they are quickly becoming more controversial/polarizing, whereas Gun Control, Immigration, and Abortion have decent evidence for becoming more controversial/polarizing.
+Combining these observations, we can confidently conclude that Healthcare and Education show strong evidence that they are quickly becoming more controversial/polarizing, whereas Gun Control, Immigration, and Abortion have decent evidence for becoming more controversial/polarizing but not substantial.
