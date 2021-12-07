@@ -49,8 +49,8 @@ If this does not work, simply use the files listed in the [TweetCSV-archive](Twe
 
 # Conclusion
 
-Based on the data we collected, and specifically focusing on the extreme word counts, it is hard to deny that there is quality evidence for continuing polarization among the American public, at least when it comes to the politics around the topics of Abortion, Education, Gun Control, Healthcare, and Immigration. Extreme word use **doubled** for nearly every topic, and increased in all topics.
+Based on the data we collected, and specifically focusing on the extreme word counts, it is hard to deny that there is significant evidence for continuing polarization among the American public, at least when it comes to the politics around the topics of Abortion, Education, Gun Control, Healthcare, and Immigration. Extreme word use **doubled** for nearly every topic, and increased in all topics.
 
 We do not have as strong evidence for continued division when examining sentiment analysis, but we do see some. Negative sentiment on Education is indicating more division and passion in that area (education's extreme words also doubled) and we saw much less neutrality and more opinionated opinions surrounding the area of healthcare (extreme words more than doubled here).
 
-Combining these observations, we can confidently conclude that Healthcare and Education show strong evidence that they are quickly becoming more controversial/polarizing, whereas Gun Control, Immigration, and Abortion have decent evidence for becoming more controversial/polarizing but not substantial.
+Combining these observations, we can confidently conclude that Healthcare and Education show strong evidence that they are quickly becoming more controversial/polarizing, whereas Gun Control, Immigration, and Abortion have some evidence for becoming more controversial/polarizing but not substantial.
